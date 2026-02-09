@@ -1,0 +1,5 @@
+haven>=2.5.0
+dplyr>=1.1.0
+quantreg>=5.97
+DescTools>=0.99.48
+stargazer>=5.2.3
