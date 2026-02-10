@@ -55,6 +55,7 @@ financial-literacy-wealth-replication/
 ├── docs/
 │   └── Lusardi_Mitchell_2023.pdf
 ├── README.md
+├── .gitignore
 └── requirements.txt
 ```
 
