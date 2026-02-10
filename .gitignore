@@ -1,0 +1,23 @@
+# Data files (too large for GitHub)
+data/*.dta
+data/*.zip
+
+# Output files (regenerate with code)
+output/tables/*.tex
+output/tables/*.txt
+output/logs/*.log
+
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# Stata
+*.smcl
+*.gph
+
+# System files
+.DS_Store
+Thumbs.db
